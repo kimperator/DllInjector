@@ -1,0 +1,3 @@
+[submodule "libDllLoader"]
+	path = libDllLoader
+	url = git://github.com/kimperator/libDllLoader.git
